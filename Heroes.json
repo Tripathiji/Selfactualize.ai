@@ -1,0 +1,59 @@
+{
+    "people": [
+        {
+            "name": "David Goggins",
+            "image": "David Goggins",
+            "category": "Fitness",
+            "bio": "David Goggins is an American retired Navy SEAL, ultramarathon runner, ultra-distance cyclist, and triathlete known for his extreme physical endurance and motivational speaking. He has completed over seventy ultra-distance races and held the former Guinness World Record for over 4,000 pull-ups in seventeen hours."
+        },
+        {
+            "name": "Greta Thunberg",
+            "image": "URL_to_image_of_Greta_Thunberg",
+            "category": "Climate Activism",
+            "bio": "Greta Thunberg is a Swedish environmental activist who sparked an international movement to fight climate change, known as Fridays for Future, beginning in 2018. Her advocacy has significantly influenced global discussions on climate change."
+        },
+        {
+            "name": "Malala Yousafzai",
+            "image": "URL_to_image_of_Malala_Yousafzai",
+            "category": "Women’s Education",
+            "bio": "Malala Yousafzai is globally recognized for her advocacy for girls' education, surviving a Taliban assassination attempt and becoming the youngest Nobel Prize laureate."
+        },
+        {
+            "name": "Nelson Mandela",
+            "image": "URL_to_image_of_Nelson_Mandela",
+            "category": "Leadership & Reconciliation",
+            "bio": "Nelson Mandela is celebrated for his exemplary leadership in fighting apartheid and fostering reconciliation in South Africa, serving as the country's first black head of state."
+        },
+        {
+            "name": "Roger Federer",
+            "image": "URL_to_image_of_Roger_Federer",
+            "category": "Athletics",
+            "bio": "Roger Federer is a world-renowned tennis player with numerous records and titles, including 20 Grand Slam titles, showcasing exceptional athleticism and sportsmanship."
+        },
+        {
+            "name": "Tony Robbins",
+            "image": "URL_to_image_of_Tony_Robbins",
+            "category": "Personal Development",
+            "bio": "Tony Robbins is a prominent figure in personal development, known for his motivational seminars, self-help books, and life coaching."
+        },
+        {
+            "name": "Oprah Winfrey",
+            "image": "URL_to_image_of_Oprah_Winfrey",
+            "category": "Life Coaching",
+            "bio": "Oprah Winfrey is a revered life coach, television host, and philanthropist, known for her influential talk show and contributions to the self-improvement genre."
+        },
+        {
+            "name": "Satya Nadella",
+            "image": "URL_to_image_of_Satya_Nadella",
+            "category": "Business",
+            "bio": "Satya Nadella is recognized for his business acumen as the CEO of Microsoft, steering the company towards new ventures and consistent growth."
+        },
+        {
+            "name": "Barack Obama",
+            "image": "URL_to_image_of_Barack_Obama",
+            "category": "Leadership",
+            "bio": "Barack Obama exhibited remarkable leadership as the 44th President of the United States, known for his efforts towards healthcare reform and diplomatic relations."
+        }
+
+    ]
+}
